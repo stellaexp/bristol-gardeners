@@ -1,0 +1,85 @@
+
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+/*header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}*/
+
+.navbar {
+  background-color: transparent;
+  border: none !important;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-color: black;
+	text-align: center;
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Bungee Shade', cursive;
+	font-color: black;
+	font-size: 300%;
+}
+
+h3 {
+	padding: 30px;
+}
+
+#banner {
+	background-image: url(images/lawn.jpg);
+	background-size: cover;
+	padding: 315px 0;
+	color: white;
+}
+
+.btn {
+	border-radius: 24px!important;	
+}
+
+#section-1 {
+	padding: 100px;
+	margin: 0px;
+	text-align: center;
+	font-size: 120%;
+}
+
+
+#services {
+	padding: 100px;
+	margin: 0px;
+	text-align: center;
+	font-size: 100%;
+}
+
+#section-2 {
+	padding: 100px;
+	margin: 0px;
+	text-align: center;
+	font-size: 100%;
+}
+
+#footer {
+	background: black;
+	color: white;
+	padding: 20px;
+	margin: 0px;
+	font-family: 'Bungee Shade', cursive;
+	font-size: 20px;
+}
